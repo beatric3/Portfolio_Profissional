@@ -268,8 +268,12 @@ p {
     padding: 90px 6%;
   }
 
+  .hero h1{
+    font-size: 3rem;
+  }
+
   .hero .name {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .hero-star {
@@ -277,7 +281,7 @@ p {
   }
   
   .hero .role{
-    font-size: 2rem;
+    font-size: 1rem;
   }
 
   .project {
