@@ -258,7 +258,7 @@ p {
   }
 
   p {
-    font-size: 1.05rem;
+    font-size: 2rem;
     line-height: 1.7;
   }
 
@@ -269,11 +269,15 @@ p {
   }
 
   .hero .name {
-    font-size: 1.3rem;
+    font-size: 2.5rem;
   }
 
   .hero-star {
     display: none;
+  }
+  
+  .hero .role{
+    font-size: 2rem;
   }
 
   .project {
