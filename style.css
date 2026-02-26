@@ -369,8 +369,9 @@ section {
   .project img {
   width: 100%;
   height: auto;
-  object-fit: contain;
-  border-radius: 12px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 14px;
 }
 
   .project-info {
