@@ -155,18 +155,18 @@ p {
   display: inline-block;
   margin-right: 15px;
   padding: 10px 18px;
-  border: 1px solid #111;
+  border: 1px solid #ff3838;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 600;
   letter-spacing: 1px;
   transition: 0.3s;
-  color: #111;
+  color: #fdd9ab8e;
 }
 
 .project-links a:hover {
-  background: #111;
-  color: #fff;
+  background: #d21f1f;
+  color: #fdd9ab8e;
 }
 
 
@@ -291,7 +291,7 @@ section {
 }
 
 .experience {
-  background: #f5f5f5;
+  background: #fdd9ab8e;
 }
 
 .job {
