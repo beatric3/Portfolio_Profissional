@@ -100,12 +100,6 @@ p {
   color: #fdd9ab8e;
 
 }
-
-.contact {
-    background: #ff3838;
-    color: #fdd9ab8e;
-    text-align: center;
-}
   
 .skills {
   background: #ff3838;
@@ -135,8 +129,8 @@ p {
 }
 
 .contact {
-  background: #111;
-  color: #fff;
+  background:  #ff3838;;
+  color: #fdd9ab8e;
   text-align: center;
 }
 
@@ -145,7 +139,7 @@ p {
 }
 
 .contact a {
-  color: #fff;
+  color: #fdd9ab8e;
   margin: 0 15px;
   text-decoration: none;
   font-weight: 600;
@@ -348,6 +342,8 @@ section {
   .hero {
     flex-direction: column;
     padding: 90px 6%;
+    align-items: flex-start; 
+    text-align: left;
   }
 
   .hero h1{
