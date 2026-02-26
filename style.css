@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #fdd9ab8e;
+  background: #ffddb1;
   color: #ff3838;
   line-height: 1.6;
 }
@@ -39,7 +39,7 @@ p {
 .hero {
   position: relative;
   min-height: 90vh;
-  background: #fdd9ab8e;
+  background: #ffddb1;
   display: flex;
   align-items: center;
   padding: 0 10%;
@@ -86,7 +86,7 @@ p {
 .intro,
 .contact {
   background: #ff3838;
-  color: #fdd9ab8e;
+  color: #ffddb1;
 }
 
 .contact h2 {
@@ -97,19 +97,19 @@ p {
 .contact p {
   margin-top: 15px;
   align-items: center;
-  color: #fdd9ab8e;
+  color: #ffddb1;
 
 }
   
 .skills {
   background: #ff3838;
-  color: #fdd9ab8e;
+  color: #ffddb1;
 }
 
 .skills h2,
 .skills h3,
 .skills p {
-  color: #fdd9ab8e;
+  color: #ffddb1;
 }
 
 .skill {
@@ -130,7 +130,7 @@ p {
 
 .contact {
   background:  #ff3838;;
-  color: #fdd9ab8e;
+  color: #ffddb1;
   text-align: center;
 }
 
@@ -139,7 +139,7 @@ p {
 }
 
 .contact a {
-  color: #fdd9ab8e;
+  color: #ffddb1;
   margin: 0 15px;
   text-decoration: none;
   font-weight: 600;
@@ -168,7 +168,7 @@ p {
 
 .project-links a:hover {
   background: #d21f1f;
-  color: #fdd9ab8e;
+  color: #ffddb1;
 }
 
 
@@ -293,7 +293,7 @@ section {
 }
 
 .experience {
-  background: #fdd9ab8e;
+  background: #ffddb1;
 }
 
 .job {
