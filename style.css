@@ -97,6 +97,14 @@ p {
 .contact p {
   margin-top: 15px;
   align-items: center;
+  color: #fdd9ab8e;
+
+}
+
+.contact {
+    background: #ff3838;
+    color: #fdd9ab8e;
+    text-align: center;
 }
   
 .skills {
